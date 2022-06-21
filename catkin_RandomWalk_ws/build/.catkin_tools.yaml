@@ -1,0 +1,6 @@
+devel_space: /home/client/ROBO_TP_RandomWalk_Ramcharn/catkin_RandomWalk_ws/devel
+install: false
+install_space: /home/client/ROBO_TP_RandomWalk_Ramcharn/catkin_RandomWalk_ws/install
+profile: default
+source_space: /home/client/ROBO_TP_RandomWalk_Ramcharn/catkin_RandomWalk_ws/src
+workspace: /home/client/ROBO_TP_RandomWalk_Ramcharn/catkin_RandomWalk_ws

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/client/ROBO_TP_RandomWalk_Ramcharn/catkin_RandomWalk_ws/install/setup.sh
