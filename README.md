@@ -7,7 +7,8 @@ Réaliser une random walk dans un espace restreint et de le visualiser dans RVIZ
 
 ## Pour l'utiliser, il faut cloner ce repertoire git sur votre terminal en faisant : 
 ```sh
-https://github.com/MimRamcharn/TP_RandomWalk.git
+git clone https://github.com/MimRamcharn/ROBO_TP_RandomWalk_Ramcharn.git
+
 ```
 ## Comment utiliser?
 Créer un marker et l'afficher dans RVIZ - 
